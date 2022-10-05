@@ -49,7 +49,7 @@ async function mulainama() {
   function otomatis() {kalimatbawah.style="position:relative;opacity:0;transform:scale(.3);";setTimeout(anim,300);} 
   function anim() {kalimatbawah.style="position:relative;opacity:1;transform:scale(1);";}
   
-  function bqmuncul(){bq.style = "position:relative;opacity:1;visibility:visible;transform: scale(1);margin-top:0";mulaiketik1();fungsi=5;}
+  function bqmuncul(){bq.style = "position:relative;opacity:1;visibility:visible;transform: scale(1);margin-top:0";mulaiketik1();fungsi=1;}
   function bqhilang(){wallpaper.style="transform: scale(2);";bodyblur.style="opacity:.3";bq.style = "position:relative;transition:all .7s ease;";}
   function otokal() {kalimat.style="opacity:0;transform:scale(.3);";setTimeout(anikal,300);} 
   function anikal() {setTimeout(otopsL,700);kalimat.style="opacity:1;transform:scale(1);";}
